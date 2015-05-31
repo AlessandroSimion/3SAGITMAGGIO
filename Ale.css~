@@ -1,0 +1,5 @@
+body {
+	font-family: roman, 'times new roman', times, serif;
+	background-color: lightblue;
+	color: gainsboro;
+}

@@ -1,0 +1,98 @@
+<html>
+<head> 
+<title> I malware </title>
+<link rel="stylesheet" type="text/css" href="Ale.css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<p></p>
+<p></p>
+<p>Il malware è una componente informatica mirata a danneggiare gli altri dispositivi.
+Nel 1949 John von Neumann dimostrò matematicamente la possibilità di costruire un 
+programma per computer in grado di replicarsi autonomamente. Il concetto di 
+programma autoreplicante prende forma nei primi anni 60, grazie ad un gioco 
+nel quale più programmi dovevano sovrascriversi a vicenda.
+ Tra i vari malware vi sono:
+</p>
+
+<p></p>
+<p></p>
+
+<p> <big> <font color= "orange"> VIRUS: </font> </big> sono pezzi di codice informatico che, una volta aperti, cominciano ad agire, inibendo programmi o facendo 
+in generale danni SW. Spesso sono invibili all'utente, quindi anzichè svolgere azioni evidenti, operano di nascosto
+danneggiando il pc aumentandone l'uso di ram e surriscaldando la CPU, a volte giungendo quindi alla fusione della stessa.
+Il virus ha la caratteristica di non poter essere eseguito se non di conseguenze al programma al quale è associato, per
+questo motivo una volta in esecuzione, infetta diversi programmi in modo da poter essere eseguito molte volte dall'utente.
+</p>
+
+<p></p>
+<p></p>
+
+<p> <big> <font color= "orange"> WORM: </font></big> categoria di malware in grado di autoreplicarsi. Agisce moltiplicandosi in modo da riempire la memoria RAM, 
+rallentando di conseguenza il sistema. Si riproduce sfruttando la rete e tende a modificare il pc in modo che 
+il worm resti in esecuzione dall'avvio allo spegnimento dello stesso. Spesso un worm è utilizzato per aprire la strada
+a malware più dannosi, poichè impegnano il software antivirus; analizzando su larga scala i danni dei worm, quest'ultimi
+occupano molta banda per mandare email infettive e riempiono la posta indesiderata degli utenti.
+</p>
+
+<p></p>
+<p></p>
+
+<p> <big> <font color= "orange"> TROJAN: </font> </big> tipo di malware che nasconde al suo interno un programma apparentemente inutile; è l'utente stesso che installando 
+ed eseguendo questo programma, infetta il proprio pc con il codice trojan nascosto.
+A differenza dei malware visti in precedenza, i trojan non sono in grado di agire autonomamente, ma l'utente stesso deve 
+scaricarli sul proprio pc; sono quindi nascosti dai cracker in giochi piratati, musica, film.
+Un trojan può contenere qualsiasi istruzione dannosa e spesso è traghettatore di keylogger o malware molto dannosi.
+</p>
+
+<p></p>
+<p></p>
+
+<p><big> <font color= "orange"> SPYWARE </font></big>: è un tipo di software che raccoglie informazioni sulla navigazione web dell'utente e le trasmette ad un'organizzazione
+che le utilizzerà per inviare pubblicità mirate. Hanno una diffusione simile ai trojan, necessitano quindi dell'installazione
+dell'utente, attraverso programmi gratuiti sul web, che trarrano guadagno dal download grazie a questo malware. I danni degli
+spyware non sono gravi per il pc, poichè non viene danneggiato il software o l'hardware, ma viene invasa la privacy dell'utente,
+infastidisce con la spam e, se l'invasione è massiccia, può rallentare il pc a causa delle troppe pubblicità.
+</p>
+
+<p></p>
+<p></p>
+
+<p><big> <font color= "orange"> KEYLOGGER:</font></big> è uno dei malware più pericolosi ed è differente dagli altri poichè può essere sia HW che SW: nel primo caso si installa
+tra tastiera e pc una componente simile ad un cavo e nascosti dalla tastiera stessa così da risultare invibili sia dall'utente che 
+dal pc; nel secondo caso sono software che rimangono in esecuzione e captano ogni tasto che viene digitato, riferendono ad un server 
+remoto. 
+Le conseguenze sono facilmente intuibili, un malware di questo tipo può copiare password e informazioni importanti dell'utente, 
+giungendo anche a danni economici per la vittima.
+</p>
+
+<p></p>
+<p></p>
+
+<p><big><font color= "orange"> PHISHING: </font></big> è un tipo di truffa diverso dalle precedenti poichè viene effettuato direttamente da una persona che mira a convincere 
+l'utente a fornire informazioni o dati personali: spesso viene inviata una mail con struttura simile a quella di banche, poste,
+con messaggi allarmanti sulla condizione del proprio conto e consigliando un accesso online per verificare che sia tutto regolare;
+con quell'accesso l'utente cade nella trappola e fornisce dati personali e spesso carte di credito o bancomat che saranno poi mezzi
+per una truffa vera e propria.
+</p>
+
+<p></p>
+<p></p>
+
+<p><big><font color= "orange">SPOOFING:</font></big> è un tipo di malware che mira a convincere la vittima che ci sia qualcosa di diverso come l'hostname o l'indirizzo ethernet.
+Intasando perciò il ricevente di informazioni spesso si hanno delle deviazioni dei dati al server nascosto che sfrutterà questi dati per
+attuare la truffa! Lo spoofing può essere nascosto in qualsiasi livello del modello ISO/OSI ed è difficile da contrastare. Se lo spoofing 
+in questione interviene nel livello 7 della scala ISO/OSI, quindi con l'applicativo, si ha un web spoofing che consiste nel falsificare un
+server web in modo da trarre in inganno la vittima.
+</p>
+
+<p></p>
+<p></p>
+
+<p>Dopo aver analizzato diversi malware si conclude che l'attenzione dell'utente sull'affidabilità dei dati che si decide di scaricare e 
+l'installazione di un buon antivirus sono la base di cui un utente non dovrebbe fare a meno. Gli hacker sono astuti e nascondono insidie
+nei software più impensabili, spesso sono le stesse case di antivirus a crearne di nuovi affinchè possano vendere la loro ultima versione...
+Perciò armarsi di buon senso ed estrema attenzione nella navigazione è essenziale.
+</p>
+</body>
+</html>

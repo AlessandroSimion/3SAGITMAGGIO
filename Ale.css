@@ -1,0 +1,25 @@
+body {
+	font-family: roman, 'times new roman', times, serif;
+	background-image: url(SfondoGenerale.jpg);
+	color: white;
+}
+
+.title {
+	color: orange;
+}
+
+.size {
+	font-size: 22px;
+}
+
+.imag {	
+	position: absolute;
+	top:40%;
+	left:40%;
+	width:25%;
+	height:30%;
+}
+
+a {
+	color: lightblue;
+}
